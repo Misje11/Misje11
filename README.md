@@ -127,10 +127,4 @@ Coming soon
 <br>
 
 
-![snake gif](https://github.com/Misje11/Misje11/blob/output/github-snake-dark.svg)
-
-
-<br>
-
-
 ⭐ I enjoy building systems, learning new technologies and solving algorithmic problems.
